@@ -4,7 +4,7 @@ Simple application for reading the Dutch "Slimme meter" via the P1 port and gene
 
 ## Requirements
 
-This applications expects an P1 to USB cable connected as `/dev/ttyUSB0`.
+This application expects an P1 to USB cable connected as `/dev/ttyUSB0`.
 
 The following packages are required:
 
